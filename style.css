@@ -1,0 +1,52 @@
+body > header {
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 16px;
+    background: dodgerblue
+
+}
+
+body > header > nav > ul {
+    text-align: right;
+}
+
+
+body > header > nav > ul > li > a {
+    color: white;
+    
+   
+}
+
+
+
+#home {
+    display: inline;
+    padding: 16px;
+    list-style: none
+    
+    
+}
+
+#blog {
+    display: inline;
+    padding: 16px;
+    list-style: none
+    
+}
+
+#contact {
+    display: inline;
+    padding: 16px;
+    list-style: none
+}
+
+
+/* #latest{
+    text-align: middle;
+} */
+
+footer{
+    background-color: dodgerblue;
+    text-align: center;
+}
